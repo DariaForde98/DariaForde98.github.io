@@ -1,0 +1,98 @@
+﻿article {
+	margin:auto;
+	width:60%;
+	min-width:600px;
+}
+section {
+	width:500px;
+	margin:auto;
+}
+h4 {
+	margin:auto;
+	font-family:"Century Gothic";
+	font-weight:normal;
+	padding-top:15px;
+	padding-bottom:5px;
+}
+.list li a{
+	display:list-item;
+	text-decoration:none;
+	line-height: 40%;
+	
+
+}
+.center{
+	margin-left: auto;
+	margin-right:auto;
+	width:auto;
+	height:auto;
+}
+header {
+	 margin:auto;
+	 text-align: center;
+	 font-family:"Century Gothic";
+	 text-transform:lowercase;
+	 font-weight:normal; 
+}
+
+header a{
+	text-decoration: none;
+	color:#5a5a5a;
+	text-transform:lowercase;
+	font-family:"Century Gothic";
+	font-weight:normal; 
+	font-size: 16px;
+}
+a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.center a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+li {
+  display: inline;
+  text-align: center;
+}
+.bigpic {
+	width:1190px;
+	height: 575px;
+	background-position: top center;
+	clear: both;
+	background-image:url('sunset.JPG');	
+
+}
+.poli ul{
+	display: list-item;
+	text-transform:none;
+}
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 11px;
+	display: inline;
+	list-style-type: none;
+}
+body {
+	
+	font-family: "Palatino Linotype";
+}
+div {
+	border: 2px black;
+	padding: 5px;
+	text-align:center;
+	height: 150px;
+	width: 200px;
+	margin: auto;
+}
